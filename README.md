@@ -1,2 +1,3 @@
-# Digital-Juanex
-Plataforma web para la gestión y venta de cuentas de streaming, permitiendo administrar productos, verificar pagos y visualizar estadísticas de ventas de manera organizada.
+# Digital Juanex
+Desarrollar una plataforma web para la gestión y monetización de productos de streaming digitales mediante metodología scrum para usuarios y administradores
+
